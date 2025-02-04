@@ -1,6 +1,4 @@
-# Neumorphism-flutter-example
-
-Neumorphism Music Player UI with Flutter 🎶
+# Neumorphism Music Player UI with Flutter 🎶
 
 Welcome to the Neumorphism Music Player UI project! In this project, I explored the Neumorphism design trend in Flutter by creating a sleek and modern music player UI with a unique, soft, and visually appealing look.
 
